@@ -1,1 +1,0 @@
-Firmwares will be moved into branches
